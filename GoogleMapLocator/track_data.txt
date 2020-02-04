@@ -1,0 +1,6 @@
+Following format required:
+
+latitude,longitude
+
+example:
+18.25,74.75
